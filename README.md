@@ -2,6 +2,7 @@
 
 <h2 align="center"> 👋 Hello! 👋</h2>
 <p align="center">
+  현재 대학교에 4학년으로 재학중인 전은호 입니다!<dr></dr>
   백엔드 개발자가 되기 위해 노력하는중 입니다~
 </p>
 
@@ -9,7 +10,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </p>
-<h3 align="center">
+<h3 align="center">🛠 learning in college Tech Stack 🛠
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+</p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
