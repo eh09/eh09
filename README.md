@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eunho%20Jeon&fontSize=90)
 
-### 👋 It's me! 👋
+<senter>### 👋 It's me! 👋
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
