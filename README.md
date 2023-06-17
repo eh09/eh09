@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 Communication 🌈</h3>
 <p align="center">
   <a href="mailto:jeoneunho4283@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeoneunho4283@gmail.com"/></a>
 
