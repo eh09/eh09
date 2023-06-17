@@ -8,7 +8,7 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">🛠 learning in college Tech Stack 🛠</h3>
 <p align="center">
